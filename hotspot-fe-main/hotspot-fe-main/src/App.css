@@ -1,0 +1,17 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.nav-words {
+    font-size: 24px;
+}
+
+
+.card-img-custom {
+    height: 300px;
+    object-fit: cover;
+}
+
+.btn-height-custom {
+    height: 50px;
+}
